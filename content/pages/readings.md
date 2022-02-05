@@ -24,23 +24,334 @@ Readings by Session
 
 The numbering L1, L2, and so forth in the Topics corresponds to the numbering of the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
 
-| SES # | TOPICS | DEMONSTRATIONS | READINGS |
-| --- | --- | --- | --- |
-| 1 | L1: Integral form of Maxwell's equations |  {{< br >}}{{< br >}} \[H/M\] 1.4.1 - Magnetic field of a line current out {{< br >}}{{< br >}} \[H/M\] 1.6.1 - Voltmeter reading induced by magnetic induction {{< br >}}{{< br >}}  | \[Z\] sections 2.1-2.4 and 5.1-5.2 |
-| 2 | L2: Differential form of Maxwell's equations | &nbsp; | \[Z\] sections 1.4-1.5 |
-| 3 | L3: Electroquasistatic (EQS) and magnetoquasistatic (MQS) fields and boundary conditions | &nbsp; | \[Z\] sections 3.3 and 5.6 |
-| 4 | L4: The scalar electric potential and the Coulomb superposition integral | &nbsp; | \[Z\] sections 2.5, 2.3.5, and 5.2.4 |
-| 5 | L5: Method of images | \[H/M\] 4.7.1 - Charge induced in ground plane by overhead conductor | \[Z\] sections 2.6-2.7 |
-| 6 | L6: Magnetoquasistatics |  {{< br >}}{{< br >}} \[H/M\] 8.2.1 - Fields of a circular cylindrical solenoid {{< br >}}{{< br >}} \[H/M\] 8.2.2 - Magnetic field of a Helmholtz coil {{< br >}}{{< br >}} \[H/M\] 6.6.1 - Artificial dielectric {{< br >}}{{< br >}}  | \[Z\] section 5.4 |
-| 7 | L7: Polarization and conduction |  {{< br >}}{{< br >}} \[H/M\] 7.7.1 - Relaxation of charge on particle in Ohmic conductor {{< br >}}{{< br >}} \[H/M\] Supplement: Van de Graaff and Kelvin generators {{< br >}}{{< br >}}  | \[Z\] section 3.2 |
-| 8 | L8: Magnetization |  {{< br >}}{{< br >}} \[H/M\] 9.4.1 - Measurements of B-H characteristic {{< br >}}{{< br >}} \[H/M\] 8.6.1 - Surface currents induced in ground plane by overhead conductor {{< br >}}{{< br >}}  | \[Z\] section 5.5 and 6.2 |
-| 9 | L9: Magnetic diffusion phenomena | \[H/M\] 10.0.1 - Non uniqueness of voltage in an MQS system | \[Z\] section 6.1 |
-| 10-11 | L10: Solutions to Laplace's equation in Cartesian coordinates | &nbsp; |
-| &nbsp; | Midterm | &nbsp; |
-| 12-13 | L11: Solutions to Laplace's equation in polar and spherical coordinates | \[H/M\] 7.5.1 - Distribution of unpaired charge | \[Z\] section 4.2 |
-| 14-16 | L12: Electroquasistatic forces | \[H/M\] 7.5.2 - Rotation of an insulating rod in a steady current | \[Z\] section 4.3 |
-| 17-20 | L13: Magnetoquasistatic forces | &nbsp; | \[Z\] sections 4.4 and 5.7.2 |
-| 21 | L14: Fields and moving media | &nbsp; | \[W/M\] chapter 3 |
-| 22 | L15: Force densities, stress tensors, and forces | &nbsp; | \[W/M\] chapter 5 |
-| 23-24 | L18: Waves and instabilities in elastic media |  {{< br >}}{{< br >}} DC, AC, and electromechanically self-excited commutator machines {{< br >}}{{< br >}} {{< h 3 >}}Film{{< /h >}} {{< br >}}{{< br >}} Melcher James R. _Complex Waves I: Propagation, Evanescence, and Instability_. VHS. Produced by the National Committee for Electrical Engineering Films. Newton, MA: Education Development Center, 1968. {{< br >}}{{< br >}}  | \[Z\] section 6.3 |
-| 25 | L19: Waves and instabilities in the presence of motion | {{< h 3 >}}Film{{< /h >}} {{< br >}}{{< br >}} Melcher, James R. _Complex Waves II: Instability, Convection and Amplification_. VHS. Produced by the National Committee for Electrical Engineering Films. Newton, MA: Education Development Center, 1968. {{< br >}}{{< br >}}  | \[W/M\] chapter 8
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DEMONSTRATIONS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+L1: Integral form of Maxwell's equations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[H/M\] 1.4.1 - Magnetic field of a line current out
+
+\[H/M\] 1.6.1 - Voltmeter reading induced by magnetic induction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] sections 2.1-2.4 and 5.1-5.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+L2: Differential form of Maxwell's equations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] sections 1.4-1.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+L3: Electroquasistatic (EQS) and magnetoquasistatic (MQS) fields and boundary conditions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] sections 3.3 and 5.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+L4: The scalar electric potential and the Coulomb superposition integral
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] sections 2.5, 2.3.5, and 5.2.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+L5: Method of images
+{{< tdclose >}}
+{{< tdopen >}}
+\[H/M\] 4.7.1 - Charge induced in ground plane by overhead conductor
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] sections 2.6-2.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+L6: Magnetoquasistatics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[H/M\] 8.2.1 - Fields of a circular cylindrical solenoid
+
+\[H/M\] 8.2.2 - Magnetic field of a Helmholtz coil
+
+\[H/M\] 6.6.1 - Artificial dielectric
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] section 5.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+L7: Polarization and conduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[H/M\] 7.7.1 - Relaxation of charge on particle in Ohmic conductor
+
+\[H/M\] Supplement: Van de Graaff and Kelvin generators
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] section 3.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+L8: Magnetization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[H/M\] 9.4.1 - Measurements of B-H characteristic
+
+\[H/M\] 8.6.1 - Surface currents induced in ground plane by overhead conductor
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] section 5.5 and 6.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+L9: Magnetic diffusion phenomena
+{{< tdclose >}}
+{{< tdopen >}}
+\[H/M\] 10.0.1 - Non uniqueness of voltage in an MQS system
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] section 6.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+L10: Solutions to Laplace's equation in Cartesian coordinates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+L11: Solutions to Laplace's equation in polar and spherical coordinates
+{{< tdclose >}}
+{{< tdopen >}}
+\[H/M\] 7.5.1 - Distribution of unpaired charge
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] section 4.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-16
+{{< tdclose >}}
+{{< tdopen >}}
+L12: Electroquasistatic forces
+{{< tdclose >}}
+{{< tdopen >}}
+\[H/M\] 7.5.2 - Rotation of an insulating rod in a steady current
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] section 4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-20
+{{< tdclose >}}
+{{< tdopen >}}
+L13: Magnetoquasistatic forces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] sections 4.4 and 5.7.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+L14: Fields and moving media
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\[W/M\] chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+L15: Force densities, stress tensors, and forces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\[W/M\] chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+L18: Waves and instabilities in elastic media
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+DC, AC, and electromechanically self-excited commutator machines
+
+### Film
+
+Melcher James R. _Complex Waves I: Propagation, Evanescence, and Instability_. VHS. Produced by the National Committee for Electrical Engineering Films. Newton, MA: Education Development Center, 1968.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Z\] section 6.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+L19: Waves and instabilities in the presence of motion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Film
+
+Melcher, James R. _Complex Waves II: Instability, Convection and Amplification_. VHS. Produced by the National Committee for Electrical Engineering Films. Newton, MA: Education Development Center, 1968.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[W/M\] chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

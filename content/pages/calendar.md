@@ -6,23 +6,249 @@ uid: 95a936b6-6591-0d83-9caf-e1164a6ff80d
 
 The numbering L1, L2, and so forth in the Topics corresponds to the numbering of the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | L1: Integral form of Maxwell's equations | Problem set 1 out |
-| 2 | L2: Differential form of Maxwell's equations | &nbsp; |
-| 3 | L3: Electroquasistatic (EQS) and magnetoquasistatic (MQS) fields and boundary conditions | Problem set 2 out |
-| 4 | L4: The scalar electric potential and the Coulomb superposition integral | Problem set 1 due |
-| 5 | L5: Method of images |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| 6 | L6: Magnetoquasistatics | Problem set 4 out |
-| 7 | L7: Polarization and conduction | Problem set 3 due |
-| 8 | L8: Magnetization | Problem set 5 out |
-| 9 | L9: Magnetic diffusion phenomena | Problem set 4 due |
-| 10-11 | L10: Solutions to Laplace's equation in Cartesian coordinates | Problem set 5 due in Ses #11 |
-| &nbsp; | Midterm | &nbsp; |
-| 12-13 | L11: Solutions to Laplace's equation in polar and spherical coordinates | &nbsp; |
-| 14-16 | L12: Electroquasistatic forces | Problem set 6 out in Ses #15 |
-| 17-20 | L13: Magnetoquasistatic forces |  {{< br >}}{{< br >}} Problem set 7 out in Ses #17 {{< br >}}{{< br >}} Problem set 6 due in Ses #18 {{< br >}}{{< br >}}  |
-| 21 | L14: Fields and moving media | Problem set 7 due |
-| 22 | L15: Force densities, stress tensors, and forces | &nbsp; |
-| 23-24 | L18: Waves and instabilities in elastic media | &nbsp; |
-| 25 | L19: Waves and instabilities in the presence of motion | Final exam taken one week after Ses #25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+L1: Integral form of Maxwell's equations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+L2: Differential form of Maxwell's equations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+L3: Electroquasistatic (EQS) and magnetoquasistatic (MQS) fields and boundary conditions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+L4: The scalar electric potential and the Coulomb superposition integral
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+L5: Method of images
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+L6: Magnetoquasistatics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+L7: Polarization and conduction
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+L8: Magnetization
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+L9: Magnetic diffusion phenomena
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+L10: Solutions to Laplace's equation in Cartesian coordinates
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due in Ses #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+L11: Solutions to Laplace's equation in polar and spherical coordinates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-16
+{{< tdclose >}}
+{{< tdopen >}}
+L12: Electroquasistatic forces
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 out in Ses #15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-20
+{{< tdclose >}}
+{{< tdopen >}}
+L13: Magnetoquasistatic forces
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 7 out in Ses #17
+
+Problem set 6 due in Ses #18
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+L14: Fields and moving media
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+L15: Force densities, stress tensors, and forces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+L18: Waves and instabilities in elastic media
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+L19: Waves and instabilities in the presence of motion
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam taken one week after Ses #25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
