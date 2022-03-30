@@ -51,7 +51,7 @@ There will be a two-hour midterm and a three-hour final examination. A formula s
 Demonstrations
 --------------
 
-The course will have many physical demonstrations that are shown in lectures. For further study, many of the demonstrations are available in [Supplemental Resources](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/index.htm).
+The course will have many physical demonstrations that are shown in lectures. For further study, many of the demonstrations are available in [Supplemental Resources](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008).
 
 Grading
 -------
